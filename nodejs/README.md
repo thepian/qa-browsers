@@ -11,3 +11,5 @@ Call `npm config set cache C:\Workarea\_tools\npm-cache --global`
 
 Call `npm config set prefix C:\Workarea\_tools\npm --global`
 
+npm uninstall -g grunt
+npm install -g grunt-cli
