@@ -1,0 +1,17 @@
+{
+  "name": "eTP",
+  "title": "eTrading Pro",
+  "version": "0.1.0",
+  "author": "Henrik Vendelbo <henrikvendelbo@zkb.ch>",
+  "author_name": "Henrik Vendelbo",
+  "dependencies": {
+    "grunt": "~0.4.1",
+    "grunt-exec": "*"
+  },
+  "engines": {
+    "npm": "1.3.x"
+  },
+  "devDependencies": {
+    "gulp": "~3.5.2"
+  }
+}
